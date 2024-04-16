@@ -1,0 +1,21 @@
+Codice Regione	Ripartizione geografica	Regione
+1	Nord-ovest	Piemonte
+2	Nord-ovest	Valle d'Aosta/Vallée d'Aoste
+3	Nord-ovest	Lombardia
+4	Nord-est	Trentino-Alto Adige/Südtirol
+5	Nord-est	Veneto
+6	Nord-est	Friuli-Venezia Giulia
+7	Nord-ovest	Liguria
+8	Nord-est	Emilia-Romagna
+9	Centro	Toscana
+10	Centro	Umbria
+11	Centro	Marche
+12	Centro	Lazio
+13	Sud	Abruzzo
+14	Sud	Molise
+15	Sud	Campania
+16	Sud	Puglia
+17	Sud	Basilicata
+18	Sud	Calabria
+19	Isole	Sicilia
+20	Isole	Sardegna
